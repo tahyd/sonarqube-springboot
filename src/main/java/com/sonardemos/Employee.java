@@ -3,6 +3,7 @@ package com.sonardemos;
 public class Employee {
 	
 	private int id;
+	private String ename;
 
 	public int getId() {
 		return id;
